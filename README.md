@@ -11,7 +11,6 @@ Este repositório contém uma implementação de uma tabela hash em Python utili
 - **Buscar elementos**: Localizar dados associados a uma chave específica.
 - **Excluir elementos**: Remover dados vinculados a uma chave.
 - **Exibir tabela**: Mostrar o estado atual da tabela hash.
-
 ---
 
 ## 🛠️ Como executar o código
@@ -20,7 +19,7 @@ Este repositório contém uma implementação de uma tabela hash em Python utili
 
 - Certifique-se de ter o Python 3.8 ou superior instalado em sua máquina.
 - Um terminal ou IDE para executar o código.
-*
+
 ### Passo a passo
 
 1. **Clone este repositório**:
